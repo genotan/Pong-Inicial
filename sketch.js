@@ -32,7 +32,7 @@ let chanceDeErrar = 0;
 let meusPontos = 0
 let pontosDoOponente = 0
 
-//sons do jogo
+//sons do  jogo
 let raquetada;
 let ponto;
 let trilha;
